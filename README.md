@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![efrenbl](https://circleci.com/gh/efrenbl/mlproject.svg?style=svg)](https://app.circleci.com/pipelines/github/efrenbl/mlproject)
 
 ## Project Overview
 
