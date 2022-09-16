@@ -1,0 +1,7 @@
+NAME           READY   STATUS    RESTARTS   AGE
+mlproject   1/1     Running   0          155s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
