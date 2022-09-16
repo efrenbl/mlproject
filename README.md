@@ -1,4 +1,4 @@
-[![efrenbl](https://circleci.com/gh/efrenbl/mlprojectgit status.svg?style=svg)](https://app.circleci.com/pipelines/github/efrenbl/mlproject)
+[![efrenbl](https://circleci.com/gh/efrenbl/mlproject.svg?style=svg)](https://app.circleci.com/pipelines/github/efrenbl/mlproject)
 
 ## Project Overview
 
